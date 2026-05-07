@@ -1,7 +1,7 @@
 # Netflix Data Analysis Project
 
 ## Overview
-This project analyzes Netflix movies and TV shows using Python, Pandas, and Matplotlib.
+This project performs exploratory data analysis (EDA) on Netflix movies and TV shows using Python, Pandas, and Matplotlib.
 
 The goal was to explore trends in Netflix content, including:
 - Content types
@@ -37,15 +37,24 @@ The goal was to explore trends in Netflix content, including:
 ## Visualizations
 
 ### Top Countries Producing Netflix Content
-(Add screenshot later)
+![Top Countries](images/top_countries.png)
 
 ### Netflix Release Trend
-(Add screenshot later)
+![Release Trend](images/release_trend.png)
 
 ### Most Common Ratings
-(Add screenshot later)
+![Ratings Chart](images/ratings_chart.png)
+
+---
+
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python Programming
+- Git & GitHub
 
 ---
 
 ## Author
-Megha
+Meghana Palagani
